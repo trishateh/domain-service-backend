@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+# Ape Domain Name Service on Polygon L2 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is the smart contract code for this Dapp.
 
-Try running some of the following tasks:
+The frontend code can be found here :
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://www.github.com/trishateh/domain-service
+
+Check out the Dapp here:
+
+https://domain-service.vercel.app
